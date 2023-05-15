@@ -30,7 +30,7 @@
         multiple tasks with ease.
     </p>
     <h5 class="mt-4">Our Services Are Reliable In The Market</h5>
-    <p>At SMSINDORI, unique Databases are formed to provide quality HNI/SME database at a reasonable cost with higher
+    <p>At SMSAdel, unique Databases are formed to provide quality HNI/SME database at a reasonable cost with higher
         accuracy and precision level. With vast experience in the database business, we had worked upon various
         customized projects. We are the trustworthy database provider who focus on generating ROI and qualified leads
         for clients.We further extend the Data Marketing to Bulk SMS, Bulk Email, Bulk WhatsApp, Voice Message, etc.
@@ -43,8 +43,8 @@
         superior services.
     </p>
 
-    <h5 class="mt-4">WHY SMS INDORI'S DATABASE SERVICE IS UNIQUE?</h5>
-    <p>SMS INDORI is one of the best and trustworthy database providing company in India. We get you the best leads
+    <h5 class="mt-4">WHY SMS Adel'S DATABASE SERVICE IS UNIQUE?</h5>
+    <p>SMS Adel is one of the best and trustworthy database providing company in India. We get you the best leads
         through our database. We do not deal with the old database and regularly update it. The entire Database is
         verified to ensure that the data is fully authentic. We take after sale's feedback from our valuable customers.
         We believe that our success lies in our hard work and it is the only way we can truly serve our clients. We help

@@ -9,7 +9,7 @@
     <div style="color: blue;width: 80px;border: 2px solid blue; margin-left: 0;"></div>
 
     <h5 class="mt-4">Instant OTP Service</h5>
-    <p>give secure OTP authentication to your applications by using SMSINDORI OTP authenticator API. Consume simple
+    <p>give secure OTP authentication to your applications by using SMSAdel OTP authenticator API. Consume simple
         API's and give secure validation to your website and applications </p>
     <h5 class="mt-4">Safe and Secure</h5>
     <p>send OTP in a secure manner using HTTPS protocols</p>
@@ -37,7 +37,7 @@
         gateway to our corporate clients, which is very easy to use. Registering to our portal is the only thing you
         need to do in order to get started with the Bulk transactional SMS facilities without any disturbance.
     </p>
-    <p class="mt-4">smsindori.com offers reasonable pricing and efficient transactional SMS plans which can let you send
+    <p class="mt-4">smsAdel.com offers reasonable pricing and efficient transactional SMS plans which can let you send
         hundreds of SMS in no significant time. </p>
 
     <h5 class="mt-4">Why use Transactional SMS</h5>

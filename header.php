@@ -56,8 +56,8 @@
                             <li><a class="dropdown-item" href="bulk-mailer.php">Bulk Mailer</a></li>
                             <li><a class="dropdown-item" href="sim-base.php">Sim Base</a></li>
                             <li><a class="dropdown-item" href="database-pan-india.php">Database Pan India</a></li>
-                            <li><a class="dropdown-item" href="voice-call.php">IVR</a></li>
-                            <li><a class="dropdown-item" href="voice-call.php">Toll Free Number</a></li>
+                            <li><a class="dropdown-item" href="ivr.php">IVR</a></li>
+                            <li><a class="dropdown-item" href="toll-free-no.php">Toll Free Number</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

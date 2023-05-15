@@ -8,7 +8,7 @@
     <h2 class="dash pt-5">SIM BASED BULK SMS SERVICE IN INDIA</h2>
     <div style="color: blue;width: 80px;border: 2px solid blue; margin-left: 0;"></div>
     <p class="mt-4">Sim based sms gateway – There is a chance when people do not go through sms when they receive bulk
-        sms from any particular sender name or sender ID. To fix this problem smsindori brought you a sim based bulk sms
+        sms from any particular sender name or sender ID. To fix this problem smsAdel brought you a sim based bulk sms
         service in India. Send unlimited promotional sms without sender ID. We have a large setup of a sim based system.
     </p>
     <p class="mt-4">Targeted audience will receive the sms without sender ID but there will be a number and interesting

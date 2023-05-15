@@ -55,7 +55,7 @@
                 <div class="card p-3 shadow" style="width: 22rem;">
                     <div class="card-body">
                         <h5 class="card-title">OTP/API</h5>
-                        <p class="card-text">Give secure OTP authentication to your applications by using SMSINDORI OTP
+                        <p class="card-text">Give secure OTP authentication to your applications by using SMSAdel OTP
                             authenticator API. Consume simple API's and give secure validation to your website and
                             applications</p>
                         <a href="#" class="btn btn-primary">Login</a>

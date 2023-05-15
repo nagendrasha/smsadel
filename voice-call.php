@@ -9,14 +9,14 @@
     <div style="color: blue;width: 80px;border: 2px solid blue; margin-left: 0;"></div>
 
     <p class="mt-4">Voice Broadcasting is a technique of sending pre-recorded voice messages to your audience. SMS
-        INDORI voice broadcasting platform is based on latest technology and is capable of handling huge traffic. As a
+        Adel voice broadcasting platform is based on latest technology and is capable of handling huge traffic. As a
         reliable and convenient voice broadcasting solution provider in India, we're dedicated to meeting the customer’s
         requirement with real-time results. See the beauty of voice broadcasting.
     </p>
 
     <p class="mt-4"> <b>Bulk Voice Call Service</b>is rarely used by Indian Companies, though it is a very important
         marketing
-        tool. SMS INDORI offers prominent<b>Bulk Voice Calling</b> <br> <b>Services in India.</b> Run your Voice Call
+        tool. SMS Adel offers prominent<b>Bulk Voice Calling</b> <br> <b>Services in India.</b> Run your Voice Call
         Campaign and find
         good marketing leads.
     </p>
@@ -42,7 +42,7 @@
         and price effective method to promote products and services in modern times.
     </p>
 
-    <p class="mt-4"> SMS INDORI is one such Bulk Voice Call Service provider which ensures maximum successful call
+    <p class="mt-4"> SMS Adel is one such Bulk Voice Call Service provider which ensures maximum successful call
         delivery within minimum time. One can avail our <br> services to send out any important announcements, alerts or
         reminder notifications, social campaigning messages, promoting business or marketing <br> campaigns, latest
         offers

@@ -16,7 +16,7 @@
     </p>
     <p class="mt-3">Send Bulk SMS to any number of People
     </p>
-    <p class="mt-3">SMS INDORI allows the fastest communication through bulk SMS without restriction you when it comes
+    <p class="mt-3">SMS Adel allows the fastest communication through bulk SMS without restriction you when it comes
         to a number of people. Group SMSs to your organizational employees, Broadcasted SMS to your customers and
         dedicated messages to your clients - all are obstacle-free so that your business can bloom without hassles.
     </p>
@@ -26,7 +26,7 @@
         characters.
     </p>
     <h5 class="mt-3">What is Bulk SMS?</h5>
-    <p>Bulk SMS is sending an SMS to a large number of recipients at once From Web/API such as SMS INDORI provide a
+    <p>Bulk SMS is sending an SMS to a large number of recipients at once From Web/API such as SMS Adel provide a
         platform to send online bulk SMS Worldwide. Bulk SMS can be used by businesses/Individuals, community groups,
         marketing agencies, or anyone wishing to communicate with a large group of people. Bulk SMS allows you to
         measure the impact of your sent messages, you can track your delivery reports and if you include a link, you can
@@ -38,7 +38,7 @@
 <div class="container-fluid" style="background-color:#f3f3f3; padding: 50px 80px 50px 80px;">
     <h5>Who can use BULK SMS PLANS for bulk SMS services?</h5>
     <p>Bulk SMS Service can be used by any Organisations, enterprise, or industry who have to deal with customers on a
-        regular basis and communicate important notifications in a timely manner. SMS INDORI provide a Bulk SMS platform
+        regular basis and communicate important notifications in a timely manner. SMS Adel provide a Bulk SMS platform
         to send online bulk SMS across the world.
     </p>
     <p class="mt-3">Bulk SMS Service can be used by many organizations, some of them discussed here:
@@ -103,7 +103,7 @@
 <div class="container mt-5">
     <h5>How can I send SMS online With SMS Adel</h5>
     <p>Through SMS Adel Application you can send text messages from anywhere in the world through an internet-enabled
-        tool. You can send and receive bulk SMS online by using a SMS INDORI platform which is the No. 1 bulk SMS
+        tool. You can send and receive bulk SMS online by using a SMS Adel platform which is the No. 1 bulk SMS
         provider in India.</p>
     <p class="mt-3">SMS Adel gives you the freedom to send safe and secure promotional and transactional SMS all over
         the world with multiple gateways.</p>
@@ -115,7 +115,7 @@
     </p>
 
     <h5 class="mt-3">Can I Send SMS in Hindi or Any Other Language?</h5>
-    <p>Yes, you can send SMS in any Language. SMS INDORI Unicode Encoding Type allows you to send SMS in different
+    <p>Yes, you can send SMS in any Language. SMS Adel Unicode Encoding Type allows you to send SMS in different
         languages (Hindi, Tamil, Malayalam, Bengali, Gujarati, Telugu, and Marathi).
     </p>
 
@@ -133,7 +133,7 @@
     </h5>
     <p>You can request your business sender id through your Bulk SMS panel <br>
         Follow Steps below <br>
-        Login to SMS INDORI Portal <br>
+        Login to SMS Adel Portal <br>
         Go to manage <br>
         Manage Senders <br>
         Create New Sender id</p>
@@ -153,7 +153,7 @@
     <p>Yes, you can get your past messages delivery report.</p>
 
     <h5 class="mt-3">How secure is my data?</h5>
-    <p>SMS INDORI are not allowed to disclose any pieces of information, contact lists to the bulk SMS Platform.</p>
+    <p>SMS Adel are not allowed to disclose any pieces of information, contact lists to the bulk SMS Platform.</p>
 
     <h5 class="mt-3">Can I Schedule My Messages For Tomorrow?</h5>
     <p>Yes, you can schedule your messages.</p>
