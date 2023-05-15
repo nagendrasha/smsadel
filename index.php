@@ -1,4 +1,7 @@
 <?php include('header.php'); ?>
+<?php include('pagescroller.php'); ?>
+
+
 
 <!-- slider -->
 <?php  include('slider.php');?>
@@ -6,11 +9,11 @@
 
 <!-- main content -->
 
-<div class="container">
+<div class="container-xxl">
 
     <div class="row">
-        <div class="col-lg-6">
-            <img src="./images/about-img.svg" alt="" width="600px" height="500px">
+        <div class="col-md-6">
+            <img src="./images/about-img.svg" alt="" width="80%" height="80%" class="mt-5">
         </div>
         <div class="col-lg-6" style="margin-top: 100px;">
             <h2>About Us</h2>
@@ -40,8 +43,8 @@
         </h2>
         <div style="color: blue;width: 80px;border: 2px solid blue; margin-left: 0;"></div>
         <div class="row my-5">
-            <div class="col-lg-4">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-md-4">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Bulk SMS</h5>
                         <p class="card-text">Our Bulk SMS Service Is The Most Effective Marketing Method Adopted By Many
@@ -51,8 +54,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 my-5">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-md-4 my-5">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">OTP/API</h5>
                         <p class="card-text">Give secure OTP authentication to your applications by using SMSAdel OTP
@@ -63,8 +66,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-md-4">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Whatsapp bulk SMS</h5>
                         <p class="card-text">Using whatsapp marketing we can easily send massive amount of whatsapp
@@ -79,8 +82,8 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-4">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-sm-4">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Voice Call</h5>
                         <p class="card-text">Send Promotional Messages In The Form Of Pre-Recorded Voice Notes,Or Any
@@ -90,8 +93,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 my-5">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-sm-4 my-5">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Bulk Mailer</h5>
                         <p class="card-text">Best Way To Retain Your Existing Customers And Gain Traction With Our
@@ -101,8 +104,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-sm-4">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Sim Base</h5>
                         <p class="card-text">Sim based sms gateway – There is a chance when people do not go through SMS
@@ -116,8 +119,8 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-4">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-sm-4">
+                <div class="card p-3 shadow" style="width: 100%">
                     <div class="card-body">
                         <h5 class="card-title">Database Pan india</h5>
                         <p class="card-text">A database management system is important because it manages data
@@ -127,8 +130,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 my-5">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-sm-4 my-5">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">IVR</h5>
                         <p class="card-text">Automate Inbound And Outbound Marketing And Customer Service Processes With
@@ -138,8 +141,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="card p-3 shadow" style="width: 22rem;">
+            <div class="col-sm-4">
+                <div class="card p-3 shadow" style="width: 100%;">
                     <div class="card-body">
                         <h5 class="card-title">Toll free number</h5>
                         <p class="card-text">Conversations don’t have to cost anything! Toll free numbers are an easy,

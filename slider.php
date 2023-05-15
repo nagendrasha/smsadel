@@ -19,7 +19,7 @@
         <span class="visually-hidden">Next</span>
     </button>
     <div class="carousel-caption  d-md-block info">
-        <h1 style="font-size: 50px; color: black;">Kick-Off Your Business Promotion <br>
+        <h1 style="font-size: 40px; color: black;">Kick-Off Your Business Promotion <br>
             With <span style="color: blue;">SMS Marketing</span></h1>
         <div>
                 <a href="#" class="btn btn-primary">Sign Up</a>

@@ -9,6 +9,8 @@
 
     <!-- google icon -->
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 
@@ -21,13 +23,27 @@
 
 
     <!-- topnav -->
-    <div class="container-fluid">
-
+    <div class="container-fluid" style="padding: 0 10% 0 10%">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                    <a href="mailto:info@smsadel.com"></a><i class="bi bi-envelope"> info@smsadel.com</i></a>
+                    <a href="tel:+919773926687" style="border-left: 1px solid black; text-decoration: none;"> <i class="bi bi-telephone-fill">
+                            +919773926687</i></a>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 d-flex flex-row-reverse">
+                <div class="sicon">
+                    <a href="#"><i class="bi bi-twitter"></i></a>
+                    <a href="#"><i class="bi bi-facebook"></i></a>
+                    <a href="#"><i class="bi bi-instagram"></i></a>
+                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- topnav end -->
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav class="navbar navbar-expand-lg bg-white" style="padding: 0 10% 0 10%">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php" style="font-size: 30px; font-weight: bold;">SMS<span
                     style="color: blue;">Adel</span></a>
