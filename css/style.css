@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.carousel-item img {
+  height: 400px;
+  opacity: 0.5;
+}
+.info {
+  opacity: 1;
+}
+/* icon css */
+.tick {
+  font-size: 18px;
+  color: blue;
+}
+
+.cicon {
+  font-size: 40px;
+  color: blue;
+  display: flex;
+  justify-content: center;
+}
+
+/* icon css end */
+
+.border-right {
+  border-right: 1px solid #dee2e6 !important;
+}
+
+.boximg {
+  background-image: linear-gradient(
+      -45deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(../images/bg1.jpeg);
+  background-size: cover;
+}
+
+/* about page css */
+.abg {
+  padding: 100px 0 100px 0;
+  background-image: linear-gradient(
+      -45deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(../images/aboutbg.png);
+  background-size: cover;
+}
+
+/* about page css end */
